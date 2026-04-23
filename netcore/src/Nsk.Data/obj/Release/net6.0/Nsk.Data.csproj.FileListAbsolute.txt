@@ -1,0 +1,14 @@
+C:\AppBuild\NSK\netcore\src\Nsk.Data\bin\Release\net6.0\Nsk.Data.deps.json
+C:\AppBuild\NSK\netcore\src\Nsk.Data\bin\Release\net6.0\Nsk.Data.runtimeconfig.json
+C:\AppBuild\NSK\netcore\src\Nsk.Data\bin\Release\net6.0\Nsk.Data.dll
+C:\AppBuild\NSK\netcore\src\Nsk.Data\bin\Release\net6.0\Nsk.Data.pdb
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.csproj.AssemblyReference.cache
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.AssemblyInfoInputs.cache
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.AssemblyInfo.cs
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.csproj.CoreCompileInputs.cache
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.dll
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\refint\Nsk.Data.dll
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.pdb
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\Nsk.Data.genruntimeconfig.cache
+C:\AppBuild\NSK\netcore\src\Nsk.Data\obj\Release\net6.0\ref\Nsk.Data.dll

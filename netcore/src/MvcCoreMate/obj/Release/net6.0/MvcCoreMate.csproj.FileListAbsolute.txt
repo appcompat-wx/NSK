@@ -1,0 +1,12 @@
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\bin\Release\net6.0\MvcCoreMate.deps.json
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\bin\Release\net6.0\MvcCoreMate.dll
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\bin\Release\net6.0\MvcCoreMate.pdb
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\MvcCoreMate.csproj.AssemblyReference.cache
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\MvcCoreMate.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\MvcCoreMate.AssemblyInfoInputs.cache
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\MvcCoreMate.AssemblyInfo.cs
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\MvcCoreMate.csproj.CoreCompileInputs.cache
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\MvcCoreMate.dll
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\refint\MvcCoreMate.dll
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\MvcCoreMate.pdb
+C:\AppBuild\NSK\netcore\src\MvcCoreMate\obj\Release\net6.0\ref\MvcCoreMate.dll
